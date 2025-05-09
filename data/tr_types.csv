@@ -1,0 +1,4 @@
+tr_type,description
+purchase,Purchase Transaction
+refund,Refund Transaction
+transfer,Transfer Transaction
